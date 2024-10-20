@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241019-2116-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.29.5-msvc4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-235OK33"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22631)"
+	OSPlatform="x86"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="7"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="27489"
+	TotalPhysicalMemory="16225"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3686"
+	>
+	<Testing>
+		<StartDateTime>Oct 19 15:50 Pacific Daylight Time</StartDateTime>
+		<StartTestTime>1729378210</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTests</FullName>
+			<FullCommandLine>C:\Users\Alex\Desktop\coding\testing\build\test\ExampleTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0393461</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Alex\Desktop\coding\testing\build\test\ExampleTests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMtqwzAQvOsr9hgfLNproYdQhxxCHzjNyTJFVbbGVNo1ktzm82tVIcSFgueifczuaKceiXrqwOmeVgV8eHbwcKcOAX1Qa4snVWH4jDwow8eJqCKGmN6OubOYsusweKO6FL2lhdIY0dxf0EJ9VruFxMlq5ziMfUQpmvKCFraW37XNfaSv3jM5pImLsRyHP+TrnZuTdoPF16kQRAP14Ql+0c46skLHFKLXEbep8qiN5zSQ8bxbNgCrG3ChWPadTIbIUdtCLLs3ovblkb9p7uZ/LoLXJOc600kv6/1+UyUPMleKH05upgY=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 19 15:50 Pacific Daylight Time</EndDateTime>
+		<EndTestTime>1729378210</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
